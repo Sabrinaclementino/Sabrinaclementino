@@ -1,12 +1,19 @@
-# Olá! Seja Bem-vindo(a)!
-
+## Olá, Sabrina aqui! Seja Bem-vindo(a)!
+          
 <img align="right" src="https://komarev.com/ghpvc/?username=Sabrinaclementino" alt="SabrinaClementino's Profile Views" />
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-Sabrina-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sabrina-c-49a0621b5/)](https://www.linkedin.com/in/sabrina-c-49a0621b5/) 
+<!-- [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-Sabrina-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sabrina-c-49a0621b5/)](https://www.linkedin.com/in/sabrina-c-49a0621b5/) -->
 
 ## Sobre mim
 <p>
-  Além das aulas da faculdade, estou acompanhando cursos pela Adatech e desenvolvendo projetos para aperfeiçoar minhas habilidades. Adoro estilizar projetos e deixá-los mais eficientes. 
+  Além das aulas da faculdade, estou acompanhando cursos pela Adatech e desenvolvendo projetos para aperfeiçoar minhas habilidades.<br> Adoro estilizar projetos e deixá-los mais eficientes. 
+  Atualmente, sou vendedora.
+</p>
+
+### Desenvolvimento Pessoal
+<p>
+  📚 Exercitando uma comunicação mais assertiva.<br>
+  📚 Entre a ida e volta do trabalho, dá tempo de treinar xadrez e ir rumo ao xeque-mate.
 </p>
 
 <!--![octocat-1722642473358](https://github.com/user-attachments/assets/22720cd6-afd7-4aab-a5ee-7df72276276f)-->
@@ -34,7 +41,7 @@
       <img alt="Yarn" src="https://img.shields.io/badge/Yarn-2C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white" />
 </a> -->
 
-### Linguagens
+### Linguagens:
 
 <!-- ![next](https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF)
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
