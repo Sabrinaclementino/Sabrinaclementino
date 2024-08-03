@@ -9,8 +9,11 @@
   Além das aulas da faculdade, estou acompanhando cursos pela Adatech e desenvolvendo projetos para aperfeiçoar minhas habilidades. Adoro estilizar projetos e deixá-los mais eficientes. 
 </p>
 
+<!--![octocat-1722642473358](https://github.com/user-attachments/assets/22720cd6-afd7-4aab-a5ee-7df72276276f)-->
+
+
 <div>
-  <img
+  <img src="https://github.com/user-attachments/assets/22720cd6-afd7-4aab-a5ee-7df72276276f" width="300px"
 />
 </div>
 
